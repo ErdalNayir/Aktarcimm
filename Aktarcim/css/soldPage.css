@@ -1,0 +1,117 @@
+.navHeader {
+  margin-left: -40px;
+  color: #1e871e;
+}
+
+.navbar .navbar-nav {
+  padding-right: 20px;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.w-100 {
+  width: 100% !important;
+  height: 75vh;
+}
+
+.sizeofThis {
+  font-size: 40px;
+}
+
+.marginEkle {
+  margin-top: 128px;
+}
+
+body {
+  padding-top: 6.5rem;
+}
+
+footer {
+  margin-top: 2rem;
+  padding: 1em 0;
+}
+
+#value {
+  color: #1e871e;
+}
+
+.panelDesign {
+  background-color: white;
+  color: black;
+  font-family: "Arial";
+  position: absolute;
+  border-radius: 5px;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 10px 0 rgba(0, 0, 0, 0.19);
+  padding-right: 0px;
+  z-index: 10;
+}
+
+.inputs {
+  border: 1px solid lightgrey;
+  margin-top: 20px;
+  width: 350px;
+  height: 50px;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+
+.inputs:focus {
+  outline: none !important;
+  border-color: #1e871e;
+}
+
+.confirmButton {
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 0px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  color: white;
+  background-color: rgb(32, 144, 32);
+  border: none;
+  border-radius: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 350px;
+}
+
+.confirmButton:active {
+  background-color: rgb(23, 96, 23);
+}
+
+.confirmButton:hover {
+  background-color: rgb(30, 135, 30);
+}
+
+#overlayBlur {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  display: block;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.littleContainer {
+  padding: 20px;
+}
+
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.closebtn {
+  text-decoration: none;
+  font-size: 24px;
+  color: gray;
+}

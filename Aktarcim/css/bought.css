@@ -1,0 +1,40 @@
+.navHeader {
+  margin-left: -40px;
+  color: #1e871e;
+}
+
+.navbar .navbar-nav {
+  padding-right: 20px;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.w-100 {
+  width: 100% !important;
+  height: 75vh;
+}
+
+.sizeofThis {
+  font-size: 40px;
+}
+
+.marginEkle {
+  margin-top: 128px;
+}
+
+body {
+  padding-top: 6.5rem;
+}
+
+footer {
+  margin-top: 2rem;
+  padding: 1em 0;
+}
+
+#value {
+  color: #6e0202;
+}

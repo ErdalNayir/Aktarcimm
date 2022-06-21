@@ -1,0 +1,36 @@
+.navHeader {
+  margin-left: -40px;
+  color: #1e871e;
+}
+
+.navbar .navbar-nav {
+  padding-right: 20px;
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.w-100 {
+  width: 100% !important;
+  height: 75vh;
+}
+
+.sizeofThis {
+  font-size: 40px;
+}
+
+.marginEkle {
+  margin-top: 128px;
+}
+
+body {
+  padding-top: 4.5rem;
+}
+
+footer {
+  padding: 1em 0;
+}
