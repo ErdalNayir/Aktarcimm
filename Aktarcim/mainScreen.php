@@ -391,7 +391,7 @@ if ($openPanel){
 <footer class="mt-auto bg-light mt-5" >
     <div class="container">
     <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Erdal Nayir</a></li>
+      <li class="nav-item"><a href="https://github.com/ErdalNayir/Aktarcimm" class="nav-link px-2 text-muted">Erdal Nayir - Github</a></li>
     </ul>
     <p class="text-center text-muted">© 2022 Aktarcım</p>
     </div>
