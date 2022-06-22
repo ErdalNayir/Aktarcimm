@@ -18,10 +18,15 @@ Sisteme kayıt olduğunuzda direkt otomatik girişiniz yapılır daha sonra da b
 Bu projede 
 
 *Mysql
+
 *Boostrap 5
+
 *PHP
+
 *Html
+
 *Css
+
 *Javascrip
 
 Kullanılmıştır
