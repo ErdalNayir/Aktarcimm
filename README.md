@@ -17,17 +17,17 @@ Sisteme kayıt olduğunuzda direkt otomatik girişiniz yapılır daha sonra da b
 
 Bu projede 
 
-..*Mysql
+..* Mysql
 
-*Boostrap 5
+* Boostrap 5
 
-*PHP
+* PHP
 
-*Html
+* Html
 
-*Css
+* Css
 
-*Javascrip
+* Javascrip
 
 Kullanılmıştır
 
