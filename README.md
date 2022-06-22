@@ -17,7 +17,7 @@ Sisteme kayıt olduğunuzda direkt otomatik girişiniz yapılır daha sonra da b
 
 Bu projede 
 
-*Mysql
+..*Mysql
 
 *Boostrap 5
 
