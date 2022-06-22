@@ -5,7 +5,7 @@ $user = 'root';
 $password = '';
 $database = 'sifregiris';
 $baglanti = mysqli_connect($server,$user,$password,$database);
-mysql_set_charset('utf8', $baglanti);
+
 
 
 if (!$baglanti) {
