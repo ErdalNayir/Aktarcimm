@@ -19,13 +19,9 @@ Bu projede
 
 * Mysql
 * Boostrap 5
-
 * PHP
-
 * Html
-
 * Css
-
 * Javascrip
 
 Kullanılmıştır
