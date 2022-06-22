@@ -8,7 +8,7 @@ Türkiyenin her yerinden lokman hekim ve aktarcılardan ürün alıp ve kendi bi
 Web tarayıcınızda http://localhost:8080/phpmyadmin 'e gelerek oradan yeni bir database kurun. Kurduğunuz database ismi sifregiris olmalıdır. Kurduğunuz database'in collation kısmı 'utf8-general-ci' olmalıdır Daha sonra bu database tıklayın ve yukardan import seçin oradan github'da yüklemiş olduğum 'sifregiris.sql' dosyasını koyun ve import edin böylece veri tabanı bütün tablolarıyla kurulmuş olcaktır. Bundan sonra burada yapacağınız bir işlem kalmadı
 
 ## Çalıştırma
-Bu komutu çalıştırdıktan sonra localhost http://localhost:8080 'e geldiğiniz zaman sizi direk başlangıç ekranına(index.php) yönlendirecektir.
+Bu komutu çalıştırdıktan sonra localhost http://localhost:8080 'e gittiğiniz zaman sizi direk başlangıç ekranına(index.php) yönlendirecektir.
 
 ## Kayıt Ve Giriş
 Sisteme kayıt olduğunuzda direkt otomatik girişiniz yapılır daha sonra da bu email ve şifre ile girşi yapmaya devam edebilirsiniz.
